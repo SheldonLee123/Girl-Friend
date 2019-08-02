@@ -13,8 +13,8 @@ async function initPool() {
 		} else {
 			pool = mysql.createPool({
 				host: "localhost",
-				user: "user",
-				password: "password",
+				user: "root",
+				password: "qweqweqwe",
 				database: "database",
 				port: 3306
 			});

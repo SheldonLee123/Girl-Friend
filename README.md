@@ -15,7 +15,7 @@
 
 ## 安装
 
-1. git clone https://github.com/zkl2333/web-love.git
+1. git clone https://github.com/SheldonLee123/Girl-Friend.git
 2. 建库建表
     ```sql
     CREATE DATABASE `love` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
